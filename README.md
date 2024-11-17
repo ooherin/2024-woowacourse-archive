@@ -116,8 +116,10 @@
 
 #### 협업
 - 매일 아침 10분 단위의 데일리 스크럼을 매일 진행자를 바꾸어 가며 진행했습니다.
-- Pigjam과 노션을 사용해 자유롭게 의견을 나누고, 열정적인 토론을 하는 분위기로 진행했습니다.
+- Figjam과 노션을 사용해 자유롭게 의견을 나누고, 열정적인 토론을 하는 분위기로 진행했습니다.
 <br/> <a href="https://www.notion.so/14105679482a803f9989dccc12766249">팀원들에게 받은 피드백</a>
+<br/> <a href="https://www.figma.com/board/nAlskmwHcmlvbhiT1L1cSK/%EB%B0%A9%EB%81%97-%ED%94%BC%EA%B7%B8%EC%9E%BC?node-id=0-1&t=XAdJbckT6RXSdRsY-1">방끗 회의 피그잼</a>
+
 
 ## 🌳 레벨 4
 📆 기간 : 2024.09.03 ~ 2024.11.01
